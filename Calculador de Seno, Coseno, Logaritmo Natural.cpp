@@ -1,4 +1,4 @@
-//Calculadora de Fracciones a factorial
+//Calculadora factorial
 
 #include <iostream>
  #include <cstdlib>
