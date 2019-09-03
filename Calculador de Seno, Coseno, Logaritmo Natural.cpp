@@ -1,4 +1,4 @@
-//Calculadora factorial
+//Calculadora 
 
 #include <iostream>
  #include <cstdlib>
