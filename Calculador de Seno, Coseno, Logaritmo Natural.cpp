@@ -85,9 +85,9 @@ int main()
 ////////////////////////////////////////////////////////////////////////////////////////////
 	
 	case 3: //Logaritmo Natural
-	cout << " Inserte numero base ::::: ";
+	cout << " Inserte numero base :: ";
     cin >> it;
-    cout << "X = ";
+    cout << " Escribe cantidad de terminos :: ";
     cin >> l;
     
     while (count <= it)
