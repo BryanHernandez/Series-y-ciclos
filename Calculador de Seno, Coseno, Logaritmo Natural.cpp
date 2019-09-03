@@ -101,7 +101,7 @@ int main()
         powe = powe + 2;
         count++;
     }
-    cout << " El numero factorial es  :::" << 2*valorTotal << endl;
+    cout << " El logaritmo natural es  :::" << 2*valorTotal << endl;
 	}	
 		break;
 	}while(seleccion != 0);
